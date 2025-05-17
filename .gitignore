@@ -1,0 +1,33 @@
+# u4f9du5b58u95a2u4fc2
+node_modules/
+
+# u30d3u30ebu30c9u51fau529b
+.next/
+out/
+build/
+dist/
+
+# u74b0u5883u5909u6570
+.env*.local
+.env
+
+# u30c7u30d0u30c3u30b0
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OSu56fau6709u306eu30d5u30a1u30a4u30eb
+.DS_Store
+Thumbs.db
+
+# u30a8u30c7u30a3u30bfu56fau6709u306eu8a2du5b9a
+.idea/
+.vscode/
+*.sublime-*
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
